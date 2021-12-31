@@ -1,0 +1,34 @@
+*{
+    background-color: rgb(193, 248, 252);
+}
+.main{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.sub{
+    margin: 100px 0 0 0;
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+}
+image{
+    width: 170px;
+}
+.header{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    transition: 0.3s;
+}
+h1{
+    font-size: 70px;
+    color: rgb(114, 21, 21); 
+    background: rgb(83, 255, 198);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
